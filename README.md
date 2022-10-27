@@ -16,12 +16,12 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
+- Nombre del proyecto (Destroy the Boss)
+- Objetivo. (Derrotar a todos los enemigos de manera inteligente, y acumular el maximo de puntos en el juego)
+- Plataforma:Unity ,Género: Arcade, Clasificación: TODOS +10, Escenario: Camino con montañas rocosas.
+- Historia: Squanchy es un extraterrestre que busca venganza, después de que su planeta natal haya sido destruido con su familia en el, por un horrible villando. Desde entonces ha ido a distintos planetas buscando al destructor para asesinarlo.
+- Personajes:Squanchy(Personaje principal), Walker(Enemigo 1),Shooter(Enemigo 2), Spawner(Enemigo 3), Big Boss(Enemigo final)
+- Reglas de Juego: El jugador contara con un porcentaje de vida, la cual disminuirá cuando reciba algun ataque. El jugador contará con 3 vidas, en caso de que muera. Podrá ir acumulando puntos en el transcruso del juego. Deberá que matar a cada de uno de los enemigos para llegar al jefe final. Para poder avanzar de nivel el jugador tendrá que derrotar al jefe de ese nivel. 
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
 
@@ -37,6 +37,7 @@
   * > [Tutorial_Unidad_5](https://github.com/UnityMiguelRojas/Unity-/blob/main/Lecci%C3%B3n%205/Tutorial%205%20Interfaz%20de%20usuario.unitypackage)
   * > [Desafío](https://github.com/UnityMiguelRojas/Unity-/blob/main/Lecci%C3%B3n%205/Desafio%205%20Aplasta%20comida.unitypackage)
   * > [Prueba](https://github.com/UnityMiguelRojas/Unity-/blob/main/Lecci%C3%B3n%205/Prueba%20Unidad%205.png)
+  * > [Prueba](https://github.com/UnityMiguelRojas/Unity-/blob/main/Lecci%C3%B3n%205/Lab%205%20-%20Swap%20out%20your%20Assets.unitypackage)
   * > [Video_Desafío_5](https://github.com/UnityMiguelRojas/Unity-/blob/main/Lecci%C3%B3n%205/Desaf%C3%ADo%205%20Aplasta%20comida.mp4)
 
 
