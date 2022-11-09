@@ -16,14 +16,20 @@
 
 ## Introducción
 
-- Nombre del proyecto (Destroy the Boss)
-- Objetivo. (Derrotar a todos los enemigos de manera inteligente, y acumular el maximo de puntos en el juego)
-- Plataforma:Unity ,Género: Arcade, Clasificación: TODOS +10, Escenario: Camino con montañas rocosas.
-- Historia: Squanchy es un extraterrestre que busca venganza, después de que su planeta natal haya sido destruido con su familia en el, por un horrible villando. Desde entonces ha ido a distintos planetas buscando al destructor para asesinarlo.
-- Personajes:Squanchy(Personaje principal), Walker(Enemigo 1),Shooter(Enemigo 2), Spawner(Enemigo 3), Big Boss(Enemigo final)
-- Reglas de Juego: El jugador contara con un porcentaje de vida, la cual disminuirá cuando reciba algun ataque. El jugador contará con 3 vidas, en caso de que muera. Podrá ir acumulando puntos en el transcruso del juego. Deberá que matar a cada de uno de los enemigos para llegar al jefe final. Para poder avanzar de nivel el jugador tendrá que derrotar al jefe de ese nivel. 
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+- **Nombre del proyecto:** (Destroy the Boss)
+- **Objetivo:** (Derrotar a todos los enemigos de manera inteligente, y acumular el maximo de puntos en el juego)
+- **Plataforma:**Unity 
+- **Género:** Arcade
+- **Clasificación:** TODOS +10 
+- **Escenario:** Camino con montañas rocosas.
+- **Historia:** Squanchy es un extraterrestre que busca venganza, después de que su planeta natal haya sido destruido con su familia en el, por un horrible villando. Desde entonces ha ido a distintos planetas buscando al destructor para asesinarlo.
+- **Personajes:** Squanchy(Personaje principal), Walker(Enemigo 1),Shooter(Enemigo 2), Spawner(Enemigo 3), Big Boss(Enemigo final)
+- **Reglas de Juego:** El jugador contara con un porcentaje de vida, la cual disminuirá cuando reciba algun ataque. El jugador contará con 3 vidas, en caso de que muera. Podrá ir acumulando puntos en el transcruso del juego. Deberá que matar a cada de uno de los enemigos para llegar al jefe final. En cuestión de los niveles, consistirá en 3 niveles en donde en cada uno tendra que derrotar a pequeños enemigos que cuidan al jefe de cada nivel, cuando se logre pasar los 3 niveles, el nivel final será pelear contra "Big Boss".
+- **Plan de creación de VideoJuego.**
+- Semana del 7 al  11: Creación de jugadores y escenarios, así como de animaciones de estos.
+- Semana del 14 al 18: Logica del juego ya en scrips, así como añadir sonidos y efectos
+- Semana del 21 al 25: Base de datos y detalles de la aplicación.
+
 
 ## Código Fuente
 
