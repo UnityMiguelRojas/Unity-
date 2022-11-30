@@ -56,6 +56,7 @@
     
 * Destroy th Boss
  * > [Versiones del juego](https://drive.google.com/drive/folders/1TI5p0G7jKKCJ2o_Vge-6E9L3GhEsimCY?usp=share_link)
+ * > [Presentación del juego](https://github.com/UnityMiguelRojas/Unity-/blob/main/Destroy%20the%20Boss_Unidad%202.pptx)
 
 
 
